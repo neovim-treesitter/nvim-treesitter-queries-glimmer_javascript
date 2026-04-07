@@ -1,7 +1,7 @@
 {
-  "lang": "glimmer_javascript",
   "url": "https://github.com/NullVoxPopuli/tree-sitter-glimmer-javascript",
   "semver": false,
   "parser_version": "5cc865a2a0a77cbfaf5062c8fcf2a9919bd54f87",
-  "location": null
+  "location": null,
+  "lang": "glimmer_javascript"
 }
